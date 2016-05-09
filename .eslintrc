@@ -1,0 +1,17 @@
+{
+  "parser": "babel-eslint",
+  "extends": "ember",
+  rules: {
+    "arrow-spacing": [2, { "before": true, "after": true }],
+    "consistent-this": [2, "self"],
+    // Length visible on single line in github diff without needing to scroll
+    "max-len": [2, 109],
+    "newline-per-chained-call": 0,
+    // Follow default Ember community / generator pattern of using spaces inside object curly braces
+    "object-curly-spacing": [2, "always"],
+    "prefer-const": 0,
+    "prefer-reflect": 0,
+    "prefer-rest-params": 0,
+    "space-before-function-paren": [2, "never"]
+  }
+}

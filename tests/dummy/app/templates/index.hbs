@@ -1,0 +1,43 @@
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+  <div class="container">
+    <h1>Hold Up! Wait a Second!</h1>
+    <p>Sometimes your code just needs a second to do something without being interupted... This Ember Addon is for exactly those times.</p>
+    <p>
+      <button class="btn btn-primary btn-lg" role="button" {{action "heroAction"}}>
+        Try It Now &raquo;
+      </button>
+    </p>
+  </div>
+</div>
+
+<div class="container">
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-6">
+      <h2>Simple Usage</h2>
+      <p>
+        Using Busy Blocker is simple, just inject the Busy Service and call show() to show the busy animation and block user input. When you're done, call hide() and busy blocker lets the user get back to doin' their user stuff. You can also easily customize the busy message each time you show the busy animation.
+      </p>
+      <p>
+        <button class="btn btn-default" role="button" {{action "showBusy"}}>
+          Wait Now &raquo;
+        </button>
+      </p>
+    </div>
+    <div class="col-md-6">
+      <h2>Busy Mixin</h2>
+      <p>
+        The addon includes a Busy Mixin that you can use to easily add support for Busy Blocker in any Ember.Object(Route, Controller, Component, etc...). The mixin injects the busy service for you and also adds a couple of convenience actions you can use to get busy real quick.
+      </p>
+      <p>
+        <button class="btn btn-default js-busy-mixin-btn" role="button" {{action "busy"}}>
+          Trigger via Mixin Action &raquo;
+        </button>
+        <button class="js-free-mixin-btn" style="display: none;" {{action "free"}}>
+          Hide via Mixin Action &raquo;
+        </button>
+      </p>
+    </div>
+  </div>
+</div>
