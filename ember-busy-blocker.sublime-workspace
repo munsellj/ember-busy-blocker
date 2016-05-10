@@ -1,0 +1,1941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"private	@private"
+			],
+			[
+				"s",
+				"scheduleHide"
+			],
+			[
+				"aft",
+				"afterAutoHide"
+			],
+			[
+				"auto",
+				"auto-hiding"
+			],
+			[
+				"hid",
+				"hideTimer"
+			],
+			[
+				"hi",
+				"hideTimer"
+			],
+			[
+				"de",
+				"destroyApp"
+			],
+			[
+				"pat",
+				"pathForType"
+			],
+			[
+				"promo",
+				"promoCode"
+			],
+			[
+				"Wype",
+				"WypeConfirmController"
+			],
+			[
+				"load",
+				"loadingIndicator"
+			],
+			[
+				"ani",
+				"animationElements"
+			],
+			[
+				"lo",
+				"loadingIndicator"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"loading",
+				"loading-content"
+			],
+			[
+				"Wyp",
+				"WypeConfirmController"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"section",
+				"section-container"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"set",
+				"selectedProduct"
+			],
+			[
+				"sele",
+				"selectedProduct"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"form",
+				"formattedAddress"
+			],
+			[
+				"for",
+				"formattedAddress"
+			],
+			[
+				"par",
+				"parkingLocation"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"is",
+				"isLoading"
+			],
+			[
+				"ser",
+				"serializedHash"
+			],
+			[
+				"ve",
+				"vehicleData"
+			],
+			[
+				"For",
+				"formData"
+			],
+			[
+				"mak",
+				"makesCount"
+			],
+			[
+				"mod",
+				"modifiedPayload"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ex",
+				"extraCharge"
+			],
+			[
+				"vehi",
+				"vehicleData"
+			],
+			[
+				"sel",
+				"selectedFile"
+			],
+			[
+				"prp",
+				"propKeys"
+			],
+			[
+				"ad",
+				"additionalInfo"
+			],
+			[
+				"y",
+				"yearsArr"
+			],
+			[
+				"add",
+				"additional_info"
+			],
+			[
+				"v",
+				"vehicleMake"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"pathForType"
+			],
+			[
+				"pad",
+				"pad-xl"
+			],
+			[
+				"plac",
+				"place_name"
+			],
+			[
+				"map",
+				"mapCenter"
+			],
+			[
+				"ge",
+				"geocoder"
+			],
+			[
+				"a",
+				"attemptedTransition"
+			],
+			[
+				"get",
+				"generatedIds"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mail",
+				"mailUrl"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"on",
+				"onAuthSuccess"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"will",
+				"willDestroyElement"
+			],
+			[
+				"auth",
+				"authentication_token"
+			],
+			[
+				"reg",
+				"regData"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pass",
+				"passwordConfirm"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"hide",
+				"hideError"
+			],
+			[
+				"error",
+				"errorText"
+			],
+			[
+				"signup",
+				"signUpModel"
+			],
+			[
+				"sign",
+				"signUpModel"
+			],
+			[
+				"veh",
+				"vehicleLocation"
+			],
+			[
+				"loca",
+				"locationChanged"
+			],
+			[
+				"new",
+				"newLocation"
+			],
+			[
+				"us",
+				"us-west-1"
+			],
+			[
+				"ind",
+				"indexUrl"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"clsoe",
+				"closeCallback"
+			],
+			[
+				"log",
+				"loginModalClosed"
+			],
+			[
+				"req",
+				"requestData"
+			],
+			[
+				"onTr",
+				"onTrackStream"
+			],
+			[
+				"downo",
+				"downloadUrl"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"strig",
+				"stringify"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"tra",
+				"trackInfoCache"
+			],
+			[
+				"stream",
+				"streamQueue"
+			],
+			[
+				"ontr",
+				"onTrackStream"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"track",
+				"trackInfo"
+			],
+			[
+				"strea",
+				"streamQueue"
+			],
+			[
+				"image",
+				"imageCache"
+			],
+			[
+				"write",
+				"writePath"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"imag",
+				"imageCache"
+			],
+			[
+				"ima",
+				"imageCache"
+			],
+			[
+				"writ",
+				"writePath"
+			],
+			[
+				"chil",
+				"childPages"
+			],
+			[
+				"chi",
+				"childPage"
+			],
+			[
+				"fbAu",
+				"fbAuthPage"
+			],
+			[
+				"fac",
+				"facebookLogIn"
+			],
+			[
+				"cart",
+				"cartJSON"
+			],
+			[
+				"ini",
+				"initializeCart"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"user",
+				"user_agent"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"ord",
+				"ordering-integrations"
+			],
+			[
+				"but",
+				"buttonText"
+			],
+			[
+				"B",
+				"BABEL_CONFIG"
+			],
+			[
+				"order",
+				"orderingTemplatesAmdConfig"
+			],
+			[
+				"appTEm",
+				"appTemplatesAmdConfig"
+			],
+			[
+				"AM",
+				"AMD_CONFIG"
+			],
+			[
+				"spee",
+				"speed-watch"
+			],
+			[
+				"off",
+				"offsetTop"
+			],
+			[
+				"view",
+				"viewportHeight"
+			],
+			[
+				"ifr",
+				"iframeHeight"
+			],
+			[
+				"of",
+				"offsetTop"
+			],
+			[
+				"yelp",
+				"yelpData"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"menu",
+				"menu_header"
+			],
+			[
+				"Forma",
+				"FormatCalendarHelper"
+			],
+			[
+				"forman",
+				"format-calendar"
+			],
+			[
+				"Order",
+				"OrderingHelpersInitializer"
+			],
+			[
+				"html",
+				"htmlbarsConfig"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jonathon/Dropbox/Documents/dev/Ember Busy Blocker Notes.txt",
+			"settings":
+			{
+				"buffer_size": 1462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/mixins/busy.js",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "addon/components/busy-blocker.js",
+			"settings":
+			{
+				"buffer_size": 2125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/dummy/app/routes/application.js",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/dummy/app/controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "test('visiting /75', function(assert) {\n  visit('/75');\n\n  andThen(() => {\n    assert.equal(find('.loading-slider').length, 1, \"The component's element exists\");\n    assert.equal(find('.loading-slider span').length, 1, 'The component has inserted one span');\n    assert.equal(find('.loading-slider span').width(), 0, 'The stripe has finished animating and is width 0');\n  });\n});\n\ntest('testing animation', function(assert) {\n  assert.expect(2);\n\n  visit('/');\n\n  andThen(() => {\n    // use the jQuery click rather than the promise observing click\n    find('button:first').click();\n\n    Ember.run.later(() => {\n      assert.equal($('.loading-slider span:last').width() > 0, true, 'The slider has animated');\n    }, 500);\n\n    Ember.run.later(() => {\n      assert.equal($('.loading-slider span').length === 0, true, 'The slider has reset');\n    }, 1500);\n  });\n\n});\n\ntest('testing multi-color centered animation', function(assert) {\n  visit('/');\n\n  andThen(() => {\n\n    // use the jQuery click rather than the promise observing click\n    find('button:nth-of-type(3)').click();\n\n    Ember.run.later(() => {\n      assert.equal(find('.loading-slider span:last').width() > 0, true, 'The slider has animated');\n    }, 1000);\n\n    Ember.run.later(() => {\n      assert.equal(find('.loading-slider span').length > 2, true, 'There are multiple sliders');\n    }, 1500);\n\n    Ember.run.later(() => {\n      assert.equal(find('.loading-slider span').length === 0, true, 'The slider has reset');\n    }, 5500);\n  });\n\n});",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Unix",
+				"name": "test('visiting /75', function(assert) {"
+			}
+		},
+		{
+			"contents": "import Ember from 'ember';\nimport { test } from 'qunit';\nimport destroyApp from '../../tests/helpers/destroy-app';\nimport moduleForAcceptance from '../../tests/helpers/module-for-acceptance';\nimport startApp from '../../tests/helpers/start-app';\n\nlet application;\n\nmoduleForAcceptance('Acceptance | busy', {\n  beforeEach() {\n    application = startApp();\n  },\n\n  afterEach() {\n    destroyApp(application);\n  }\n});\n\n\n\ntest('visiting /', function(assert) {\n  visit('/');\n\n  andThen(function() {\n    assert.equal(currentURL(), '/');\n  });\n});\n\n\n\n\n",
+			"file": "tests/acceptance/busy-test.js",
+			"file_size": 540,
+			"file_write_time": 131072250730000000,
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/ember-busy-blocker.css",
+			"settings":
+			{
+				"buffer_size": 1243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1661,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jonathon/dev/github/ember-busy-blocker",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/components",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/services",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/templates",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/templates/components",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/acceptance",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/controllers",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/styles",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/templates",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/helpers",
+		"/Users/jonathon/dev/github/ember-busy-blocker/vendor"
+	],
+	"file_history":
+	[
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/services/busy.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/styles/app.css",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/templates/index.hbs",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/templates/application.hbs",
+		"/Users/jonathon/dev/github/ember-busy-blocker/.eslintrc",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/index.html",
+		"/Users/jonathon/dev/github/ember-busy-blocker/vendor/ember-busy-blocker.css",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/mixins/busy.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/controllers/application.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/addon/templates/components/busy-blocker.hbs",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/integration/components/busy-blocker-test.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/unit/mixins/busy-test.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/index.html",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/unit/services/busy-test.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/helpers/module-for-acceptance.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/helpers/destroy-app.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/.eslintrc",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/helpers/start-app.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/app.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/tests/dummy/app/router.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/ember-cli-build.js",
+		"/Users/jonathon/dev/github/ember-busy-blocker/.gitignore",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/promo-code/serializer-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/promo-code/adapter-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/promo-code/model-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/choose-products/component.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/loading-indicator/component.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/verification/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/add/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/verification/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/verification/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/auth-form/component.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/add/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/loading-indicator/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/confirm-location/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/loading-indicator/styles.scss",
+		"/Users/jonathon/dev/wype/wype-ember/app/services/loading-indicator.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/confirm-location/component.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/services/loading-indicator-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/integration/pods/components/loading-indicator/component-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application-loading/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application/loading/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/confirm-order/component.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/confirm-order/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/choose-products/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/products/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/products/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/integration/pods/components/wype/confirm-order/component-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/integration/pods/components/wype/confirm-location/component-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/products/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/templates/.gitkeep",
+		"/Users/jonathon/dev/wype/wype-ember/app/router.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/confirm/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/confirm/route-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/ember-cli-build.js",
+		"/Users/jonathon/dev/wype/wype-ember/package.json",
+		"/Users/jonathon/dev/wype/wype-ember/bower.json",
+		"/Users/jonathon/dev/wype/wype-ember/app/helpers/format-currency.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/helpers/format-currency-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/helpers/format-money.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/helpers/format-money-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/location/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/location/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/index/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application/index/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/products/route-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/products/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/integration/pods/components/wype/choose-products/component-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application/index/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/application/index/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/controllers/index.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/index/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/model.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/location/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype/confirm-location/styles.scss",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype-map/component.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/location/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/app.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/settings.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/index/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/make/model.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/wype/service.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/controllers/confirmlocation.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/add/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/adapter.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/README.md",
+		"/Users/jonathon/dev/wype/wype-ember/.ember-cli",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/location/route-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/wype/service-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/serializer.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/styles.scss",
+		"/Users/jonathon/dev/wype/wype-ember/config/deploy.js",
+		"/Users/jonathon/dev/wype/wype-ember/config/environment.js",
+		"/Users/jonathon/dev/wype/wype-ember/node_modules/emberx-file-input/vendor/style.css",
+		"/Users/jonathon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jonathon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jonathon/dev/wype/wype-ember/app/resume.html",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/add/styles.scss",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/make/serializer.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicle/make/serializer-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicle/serializer-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/index.html",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/auth-form/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicles/add/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicle/make/model-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/make/adapter.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicle/model/model.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/index/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicle/make/adapter-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicle/model/model-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/node_modules/ember-cli-deploy-s3/node_modules/aws-sdk/lib/model/operation.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/controller.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application/route.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/vehicles/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicles/index/controller-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicles/index/route-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype-map/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/unit/pods/vehicles/add/route-test.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/components/wype-map/styles.scss",
+		"/Users/jonathon/dev/wype/wype-ember/app/templates/index.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/verification/model.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/verification/serializer.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/application/custom-inflector-rules.js",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/profile/styles.scss",
+		"/Users/jonathon/dev/wype/wype-ember/app/pods/profile/template.hbs",
+		"/Users/jonathon/dev/wype/wype-ember/tests/integration/pods/components/wype-map/component-test.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			"/Users/jonathon/dev/wype/wype-ember/app",
+			"-/Users/jonathon/dev/wype/wype-ember/bower_components",
+			"/Users/jonathon/dev/wype/wype-ember/app",
+			"",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering/src",
+			"",
+			"/Users/jm/dev/chownow/Hermosa/static-src/yelp/src,,/Users/jm/dev/chownow/Hermosa/static-src/ordering/src",
+			"/Users/jm/dev/chownow/Hermosa/schema",
+			"/Users/jm/dev/chownow/Hermosa/static-src/yelp/src,,/Users/jm/dev/chownow/Hermosa/static-src/ordering/src",
+			"/Users/jm/dev/chownow/Hermosa/static-src/yelp/src",
+			"",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,/Users/jm/dev/chownow/Hermosa/static-src/yelp,-/Users/jm/dev/chownow/Hermosa/static-src/*/vendor/bower_components/*,/Users/jm/dev/chownow/Hermosa/static",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,-/Users/jm/dev/chownow/Hermosa/static-src/*/vendor/bower_components/*,/Users/jm/dev/chownow/Hermosa/static",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,-/Users/jm/dev/chownow/Hermosa/static-src/*/vendor/bower_components/*",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,-/Users/jm/dev/chownow/Hermosa/static-src/ordering/*/bower_components/*",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,-/Users/jm/dev/chownow/Hermosa/static-src/ordering/vendor/bower_components/*",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,-/Users/jm/dev/chownow/Hermosa/static-src/ordering/vendor/bower_components",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering,-/Users/jm/dev/chownow/Hermosa/static-src/**/vendor/bower_components",
+			"/Users/jm/dev/chownow/Hermosa/static-src/ordering",
+			"/Users/jm/dev/chownow/Hermosa",
+			"/Users/jm/dev/chownow/Hermosa/static-src",
+			"/Users/jm/dev/chownow/Hermosa/static/ng/menu",
+			"/Users/jm/dev/chownow/Hermosa/",
+			"/Users/jm/dev/chownow/Hermosa/static/ng/menu"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self",
+			"this",
+			"this.get('busy')",
+			"_autoHide",
+			"$",
+			"inverse",
+			"destroy",
+			"destroyApp",
+			"loading-content",
+			".loading-backdrop",
+			"loadingIndicator",
+			"loading",
+			"show",
+			"Show",
+			"show",
+			"self.set('isLoading', false);",
+			"isLoading",
+			"beforeRequest",
+			"isLoading",
+			"$submitButton.button('reset');",
+			"$submitButton",
+			"beforeRequest",
+			"isLoading",
+			"submitButton",
+			"loading",
+			"isLoading",
+			"Loading",
+			"loading-spinner",
+			"showLoading",
+			"hideLoading",
+			"showLoading",
+			"hideLoading",
+			"on",
+			"this.get('loadingSlider')",
+			"_startLoading",
+			"modal",
+			"div",
+			"session",
+			"loading-spinner",
+			"exampleInputAmount",
+			"Transfer cash",
+			"addr",
+			"unless",
+			"<div></div>",
+			"class=\"detail\"",
+			"</div>",
+			"<div class=\"detail\">",
+			"class=\"title\"",
+			"wype",
+			"navbar-nav",
+			"currentSection",
+			"ember-uploader",
+			"$.cookie",
+			"cookie",
+			"fileapi",
+			"productDetails",
+			"service-item",
+			"application/",
+			"didConfirmLocation",
+			"locationForm",
+			"todo",
+			"console",
+			"consol",
+			"this",
+			"config",
+			"model.",
+			"settings",
+			"additionalInfo",
+			"PARKING_OPTIONS",
+			"WYPE_STATE_OPTIONS",
+			"{{!--",
+			"vehicleMake",
+			"locationForm",
+			"eq selectedVehicle vehicle",
+			"vehicleLocation",
+			"../",
+			"\"",
+			"font",
+			"cnSpinnerRotation",
+			"locationForm",
+			"',",
+			"self.set('",
+			": th",
+			"imageData",
+			"VehicleData",
+			"vehicleData",
+			"var",
+			"requestType",
+			"config",
+			"selectedMake.extraCharge",
+			"file",
+			"ile",
+			"licensePlate",
+			"License Plate State",
+			"year",
+			"\"",
+			"    \"",
+			": ",
+			"Year",
+			"vehicleYear",
+			"vehicleColor",
+			"\"",
+			"make",
+			"\"",
+			"make",
+			"Make",
+			"vehicleMake",
+			"Make",
+			"vehicleMake",
+			"formModel",
+			"vehicleMake",
+			"vehicleData",
+			"make",
+			"vehicleMake",
+			"signUpLastName",
+			"link-hover",
+			"requestWypeButton",
+			"btn-action",
+			"self",
+			"this",
+			"locationChanged",
+			"mapChangeHandler",
+			"navbar",
+			"call",
+			"locationChanged",
+			"var",
+			"v2.2.3",
+			"locationChanged"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ember.inject.service('wype-session')",
+			"wype-web/",
+			"\"",
+			"cn/yelp/templates",
+			"Ember.",
+			"\"",
+			"'",
+			"cn/ordering",
+			"\"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jonathon/Dropbox/Documents/dev/Ember Busy Blocker Notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/mixins/busy.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "addon/components/busy-blocker.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1761,
+								1761
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tests/dummy/app/routes/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tests/dummy/app/controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test('visiting /75', function(assert) {",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "tests/acceptance/busy-test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "vendor/ember-busy-blocker.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1243,
+								1243
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1556,
+								1556
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ember-busy-blocker.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".es",
+				".eslintrc"
+			],
+			[
+				"busy-block-",
+				"tests/integration/components/busy-blocker-test.js"
+			],
+			[
+				"mixin/bu",
+				"tests/unit/mixins/busy-test.js"
+			],
+			[
+				"mixin/",
+				"addon/mixins/busy.js"
+			],
+			[
+				".eslin",
+				".eslintrc"
+			],
+			[
+				"helpers/sta",
+				"tests/helpers/start-app.js"
+			],
+			[
+				"servic",
+				"tests/unit/services/busy-test.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"seri",
+				"tests/unit/pods/promo-code/serializer-test.js"
+			],
+			[
+				"promo/a",
+				"app/pods/promo-code/adapter.js"
+			],
+			[
+				"promo/te",
+				"tests/unit/pods/promo-code/adapter-test.js"
+			],
+			[
+				"promo/s",
+				"tests/unit/pods/promo-code/model-test.js"
+			],
+			[
+				"confirm-lo",
+				"app/pods/components/wype/confirm-location/component.js"
+			],
+			[
+				"loading",
+				"tests/unit/services/loading-indicator-test.js"
+			],
+			[
+				"wype/con/com",
+				"tests/integration/pods/components/wype/confirm-order/component-test.js"
+			],
+			[
+				"wype/confir-o",
+				"tests/integration/pods/components/wype/confirm-location/component-test.js"
+			],
+			[
+				"wyp/confi",
+				"tests/unit/pods/wype/confirm/route-test.js"
+			],
+			[
+				"wyp/confi/",
+				"tests/unit/pods/wype/confirm/controller-test.js"
+			],
+			[
+				"forma",
+				"tests/unit/helpers/format-currency-test.js"
+			],
+			[
+				"format",
+				"tests/unit/helpers/format-money-test.js"
+			],
+			[
+				"uni/inde/",
+				"tests/unit/pods/index/controller-test.js"
+			],
+			[
+				"produ/rout-",
+				"tests/unit/pods/wype/products/route-test.js"
+			],
+			[
+				"products/con",
+				"tests/unit/pods/wype/products/controller-test.js"
+			],
+			[
+				"choose-pr/comp-te",
+				"tests/integration/pods/components/wype/choose-products/component-test.js"
+			],
+			[
+				"wype/loc",
+				"tests/integration/pods/components/wype/confirm-location/component-test.js"
+			],
+			[
+				"wype/lo/con",
+				"tests/unit/pods/wype/location/controller-test.js"
+			],
+			[
+				"location/con",
+				"tests/unit/pods/wype/location/controller-test.js"
+			],
+			[
+				"location/rou",
+				"tests/unit/pods/wype/location/route-test.js"
+			],
+			[
+				"wype/ser",
+				"tests/unit/pods/wype/service-test.js"
+			],
+			[
+				".emb",
+				".ember-cli"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"app.sc",
+				"app/styles/app.scss"
+			],
+			[
+				"config/de",
+				"config/deploy.js"
+			],
+			[
+				"vehicl/ma/s",
+				"tests/unit/pods/vehicle/make/serializer-test.js"
+			],
+			[
+				"vehicle/ser",
+				"tests/unit/pods/vehicle/serializer-test.js"
+			],
+			[
+				"envi",
+				"config/environment.js"
+			],
+			[
+				"index.",
+				"app/index.html"
+			],
+			[
+				"config",
+				"config/environment.js"
+			],
+			[
+				"vehi/add/con",
+				"app/pods/vehicles/add/controller.js"
+			],
+			[
+				"veh/a/te",
+				"tests/unit/pods/vehicles/add/controller-test.js"
+			],
+			[
+				"make/mod",
+				"tests/unit/pods/vehicle/make/model-test.js"
+			],
+			[
+				"mod/model-t",
+				"tests/unit/pods/vehicle/model/model-test.js"
+			],
+			[
+				"modelmodel/",
+				"node_modules/ember-cli-deploy-s3/node_modules/aws-sdk/lib/model/operation.js"
+			],
+			[
+				"make/ser",
+				"tests/unit/pods/vehicle/make/serializer-test.js"
+			],
+			[
+				"make/adap",
+				"tests/unit/pods/vehicle/make/adapter-test.js"
+			],
+			[
+				"vehi/in/rou",
+				"tests/unit/pods/vehicles/index/route-test.js"
+			],
+			[
+				"vehi/in",
+				"tests/unit/pods/vehicles/index/controller-test.js"
+			],
+			[
+				"veh/ad/r",
+				"tests/unit/pods/vehicles/add/route-test.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"ember",
+				"ember-cli-build.js"
+			],
+			[
+				"wype-map/c",
+				"app/pods/components/wype-map/component.js"
+			],
+			[
+				"wyp/co",
+				"tests/integration/pods/components/wype-map/component-test.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"readm",
+				"node_modules/ember-cli/node_modules/findup/node_modules/colors/ReadMe.md"
+			],
+			[
+				"app.j",
+				"app/app.js"
+			],
+			[
+				"veri/mod",
+				"tests/unit/pods/verification/model-test.js"
+			],
+			[
+				"veri/con",
+				"tests/unit/pods/verification/controller-test.js"
+			],
+			[
+				"veri/ser",
+				"tests/unit/pods/verification/serializer-test.js"
+			],
+			[
+				"veri/ada",
+				"tests/unit/pods/verification/adapter-test.js"
+			],
+			[
+				"veri/mo",
+				"tests/unit/pods/verification/model-test.js"
+			],
+			[
+				"ver/rout",
+				"tests/unit/pods/verification/route-test.js"
+			],
+			[
+				"config/en",
+				"config/environment.js"
+			],
+			[
+				"vehi/se",
+				"tests/unit/pods/vehicle/serializer-test.js"
+			],
+			[
+				"nav/tem",
+				"app/pods/components/nav-menu/template.hbs"
+			],
+			[
+				"vehi/tes",
+				"tests/unit/pods/vehicle/adapter-test.js"
+			],
+			[
+				"vehicle/modl",
+				"tests/unit/pods/vehicle/model-test.js"
+			],
+			[
+				"vehi/con",
+				"tests/unit/pods/vehicles/controller-test.js"
+			],
+			[
+				"vehiroute",
+				"tests/unit/pods/vehicles/route-test.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"profile/test",
+				"tests/unit/pods/profile/controller-test.js"
+			],
+			[
+				"_varai",
+				"app/styles/_variables.scss"
+			],
+			[
+				"varia",
+				"bower_components/bootstrap/less/variables.less"
+			],
+			[
+				"signin/con",
+				"app/pods/signin/controller.js"
+			],
+			[
+				"signin/tes",
+				"tests/unit/pods/signin/controller-test.js"
+			],
+			[
+				"signin/rou",
+				"app/pods/signin/route.js"
+			],
+			[
+				"signin/t",
+				"app/pods/signin/template.hbs"
+			],
+			[
+				"profile/ro",
+				"app/pods/profile/route.js"
+			],
+			[
+				"profile/r",
+				"tests/unit/pods/profile/route-test.js"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"user/model-tes",
+				"tests/unit/pods/user/model-test.js"
+			],
+			[
+				"user/model-t",
+				"tests/unit/pods/user/model-test.js"
+			],
+			[
+				"user/adap",
+				"tests/unit/pods/user/adapter-test.js"
+			],
+			[
+				"bower.j",
+				"bower.json"
+			],
+			[
+				"auth-mo",
+				"app/pods/components/auth-modal/template.hbs"
+			],
+			[
+				"auth-mod",
+				"app/pods/components/auth-modal/component.js"
+			],
+			[
+				"component-test",
+				"tests/integration/pods/components/auth-modal/component-test.js"
+			],
+			[
+				"bs-modal/test",
+				"tests/integration/pods/components/bs-modal/component-test.js"
+			],
+			[
+				"nav-menu/",
+				"tests/integration/pods/components/nav-menu/component-test.js"
+			],
+			[
+				"controller-test",
+				"tests/unit/pods/application/controller-test.js"
+			],
+			[
+				"approute-s",
+				"tests/unit/pods/application/route-test.js"
+			],
+			[
+				"applica/rout",
+				"tests/unit/pods/application/route-test.js"
+			],
+			[
+				"applic/rout-",
+				"tests/unit/application/route-test.js"
+			],
+			[
+				"helpers/module",
+				"tests/helpers/module-for-acceptance.js"
+			],
+			[
+				"modeul-for-acc",
+				"node_modules/ember-cli/blueprints/app/files/tests/helpers/module-for-acceptance.js"
+			],
+			[
+				"test/start-app",
+				"tests/helpers/start-app.js"
+			],
+			[
+				"ember-c",
+				"ember-cli-build.js"
+			],
+			[
+				"wype-log",
+				"app/templates/components/wype-login.hbs"
+			],
+			[
+				"controll/app",
+				"app/controllers/application.js"
+			],
+			[
+				"session/new",
+				"app/controllers/session/new.js"
+			],
+			[
+				"indx",
+				"index.js"
+			],
+			[
+				"ordering-modal",
+				"static-src/ordering-integrations/ordering-modal.js"
+			],
+			[
+				"ordering/pac",
+				"static-src/ordering/package.json"
+			],
+			[
+				"static-src/core/models/attributes/string",
+				"static-src/core/models/attributes/string.js"
+			],
+			[
+				"ordering-moda",
+				"static/test/ordering-modal-legacy.html"
+			],
+			[
+				"local",
+				"local_settings.py"
+			],
+			[
+				"static/ordering/ord",
+				"static/ordering/chownow-ordering.js"
+			],
+			[
+				"gulpfil",
+				"static-src/ordering/gulpfile.js"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"ordering.py",
+				"views/ordering.py"
+			],
+			[
+				"ordering_mo",
+				"templates/ordering/ordering_modules.html"
+			],
+			[
+				"faceboo",
+				"views/facebook.py"
+			],
+			[
+				"whitel",
+				"data/ordering-whitelist.json"
+			],
+			[
+				"facebook",
+				"views/facebook.py"
+			],
+			[
+				"ng/menu/hu",
+				"static/ng/menu/hudsons.html"
+			],
+			[
+				"views/or",
+				"views/ordering.py"
+			],
+			[
+				"bower.js",
+				"static-src/ordering/bower.json"
+			],
+			[
+				"orderin",
+				"views/ordering.py"
+			],
+			[
+				"yelp.sj",
+				"static/ng/menu/app/yelp.js"
+			],
+			[
+				"routes.js",
+				"static/ng/menu/app/routes.js"
+			],
+			[
+				"orderingmo",
+				"static-src/ordering-integrations/ordering-modal.js"
+			],
+			[
+				"orderingmod",
+				"static-src/ordering-integrations/ordering-modal.css"
+			],
+			[
+				"integr/gulp",
+				"static-src/ordering-integrations/gulpfile.js"
+			],
+			[
+				"manife",
+				"static/manifest.yml"
+			],
+			[
+				"customiz",
+				"templates/admin/company_customizations.html"
+			],
+			[
+				"ordering-integ/re",
+				"static-src/ordering-integrations/README.md"
+			],
+			[
+				"orderin-whi",
+				"data/ordering-whitelist.json"
+			],
+			[
+				"whitelist.j",
+				"data/ordering-whitelist.json"
+			],
+			[
+				"ordering/or",
+				"templates/ordering/ordering.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/wype/wype-ember/wype-ember.sublime-project"
+			],
+			[
+				"level",
+				"~/dev/level/level-app/level-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
